@@ -31,6 +31,7 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .groupinfo
 ║ ➤ .staff or .admins 
 ║ ➤ .vv
+║ ➤ .pair or .rent
 ╚═══════════════════╝
 
 ╔═══════════════════╗
@@ -38,6 +39,7 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .blur <image>
 ║ ➤ .simage <reply to sticker>
 ║ ➤ .sticker <reply to image>
+║ ➤ .tgsticker <Link>
 ║ ➤ .meme
 ║ ➤ .take <packname> 
 ║ ➤ .emojimix <emj1>+<emj2>
@@ -98,6 +100,8 @@ async function helpCommand(sock, chatId, channelLink) {
 ║ ➤ .character @user
 ║ ➤ .wasted @user
 ║ ➤ .ship @user
+║ ➤ .simp @user
+║ ➤ .stupid @user [text]
 ╚═══════════════════╝
 
 ╔═══════════════════╗
